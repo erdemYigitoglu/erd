@@ -1,0 +1,51 @@
+platform bütün çihazlara uygun olacak 
+site genelinde 
+ navigasyon çubuğunda olacaklar:
+.ana sayfa
+.yazarlar
+. yazılar
+.faydalı linkler 
+iletişim
+giriş/çıkış yap düğmeleri, yazı/yazar rama düğmesi navigasyon çubuğunun dışında header bölümünde olacak. 
+footerda teşekkür ve kopiright kısmı mail grubuna üye olma fırsatı ve site üzerine geri bildirimbölümleri olacak.  
+
+giriş yapılmamış ana sayfa:
+ek olarak üye ol düğmesi olacak.
+projeyi ve beni tanıtan kısa bir metin.
+en son yazılan beş yazı ve kısa özeti, kategorileri falan; yazının tümüne, yazara ve kategorilere erişebilme fırsatı.  
+üye olma kısmı veya üye olmadan mail grubuna üye olma fırsatı. 
+footerda teşekkür ve kopiright kısmı mail grubuna üye olma fırsatı. 
+registiration kısmına geldiğinde 
+üye olmanın avantajları burata net bir şekilde belirtilmeli. bunlar:
+. yazarları ve makaleleri takip etme özelliği, 
+yazar takibinde yazarın yeni yazıları hakkında bildirim alma makale takibinde ise makale üzerine yapılan yorum ve makalede değişimler üzerine bildirimleri alma
+makaleleri beğenme fırsatı  ve bu bilgi ile makaleden bahseden makaleler hakkında bildirim alma mümkün. 
+ilgi alanlarına ve diğer faktörlere göre kişisel öneri bildirimleri almak.
+beğendiğin makaleler ve diğer özelliklere göre kişisel makale listel<eri oluşturmak.  
+makalelere yorumlar yazmak ve yorumlara cevap vermek. 
+makale yazabilmek 
+email ve şifre ile veya ssitelerle kayıt olma fırsatı verebiliriz.  
+burada kişinin okuyucu yazar editor/reviewer veya bunların kombinasyonu olarak seçim yapmasını isteyeceğiz bu tercih değiştirilebilir sonradan. registration sonrası kişiyi verify ettikten sonra profil oluşturulacak bu kısım isteğe göre atlanabilir ve kişinin sayfasından düzenlenemebilir. 
+profilde kullanıcı adı, profil resmi, ilgi alanları kısa bir tanıtım, olacak. 
+kişinin giriş yaptığında ana sayfa:
+projil bilgileri ve bu bilgileri düzenleme fırsatı
+yazılarım bölgesinde yazarlar için son yayınladığı yazılar, yazmakta olduğu yazılar ve edit/review sürecinde olan yazıları görünmekte. 
+okurlarda takip ettiği yazarlar, oluşturduğu makale listeleri, yazdığı yorumlar beğendiği makaleler bulunacaktır. 
+editörler için şu ana kadar etitörlük ryaptığı veya review ettiği makaleler, süreçte olan makeler söz konusu olacak. 
+süreçteki yazılar yazarlar ve editörlerin halka açık profillerinde görünmeyecek.
+ sitenin yazar hesabı olabilir ve bu hesapta duyurular klavuzlar vb yazılar paylaşılabilir. bu yazılar ana sayfada da paylaşılabilir. 
+yazarlar bir makale için bir editöre veya bütün editorlere editörlük talebinde bulunabilir. 
+editörler yazarların genele yaptığı veya kendilerine özel yapılan teklifleri kabül veya red edebilir. 
+talebleri yazarlar; editörlük sürecindeki yazıları editör veya yazarlar bırakabilir. bırakma durumunda editör yazıyı bir daha göremez.
+  bir editöre özel editörlük teklifi geldiğinde bildirimler kısmında editör bu bilgiyi görebilir ve kab
+  l veya red edebilir. arama kutusundan veya listeden edötörlük yapabileceği makaleleri görebilir. 
+  yazarların makale ekleme kısmı profilden makale ekle düğmesiyle elde edilir. 
+  makale eklerken title, summary keywords kategories body yazar tarafından doldurulacak yazar ekle seçeneğiyle başka bir yazarı bu makaleye katkıda bulunmaya davet edebiliriz. 
+  yazar/lar publication time revision time edit status editor bilgileri otomatic olarak doldurulacak.
+  yazının body kısmına video veya resim eklenebilecek. 
+  yazar makale üzerinde yazdıktan sonra değişiklikleri kaydet editörlük için yayınla (burada spesific bir kişiye yayınlama veya halka yayınlama sistemi mümkündür) ve yayınla seçeneklerini kullanır. 
+  makale listesinde etötörler ve yazarlar makale içine girmeden yetkili olduukları silme etörlükten çıkma vb hareketleri yapabilecekler.
+  okuyaz ekibi makaleleri sizlme ve veya yazarlara uyarı gönderme yetkisine sahip olacak. 
+  okurlar makale listelerinde listeden çıkarma beğenmeden çıkarma gibi hareketleri makalenin içinden yorum yazma şikayet etme gibi hareketleri yapacabilecekler.
+  edit sürecindeki bir makalede editörler değişiklik önerisinde bulunabilirler yazar bu değişikliği onaylar red eder veya değiştirerek editöre sunar. bu değişiklikler üzerinde yorumlar ile değişiklikler detaylandırılabilir. editörlük süreci tamamlanmış makale yazar tarafından yayınla düğmesi ile paylaşılır halka. 
+  birden çok yazarlı makalelerde iki yazarda makale üzerinde kalıcı değişiklikler yapabilir/yapamaz değişiklikler yorumlar ile detaylandırılabilir. bu durumda yazarlardan birinin editörlüğe göndermesi veya makaleyi yayınlaması yeterlidir. yazarlardan biri makaleyi yayından tamamen kaldırabilir ya da revision statüsüne makaleyi sokabilir. 
